@@ -1,0 +1,11 @@
+
+Good resource for keyboard keys
+
+http://keycode.info/
+
+
+N.B.
+
+ The 'data' attribute
+ 
+ The 'transitionend' event is a great tool to use when you need to sync up some JavaScript actions with your CSS animations. Just remember that if you’re animating more than one property, you’re going to get more than one event fired. 
